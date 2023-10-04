@@ -27,7 +27,7 @@ Dưới đây là một tệp README để hướng dẫn cài đặt Python, Py
 3. Chạy mã bằng lệnh sau:
 
    ```
-   python send_message.py
+   python autogui.py
    ```
 
    **Lưu ý:** Đảm bảo rằng bạn đã cài đặt Python 3.x và PyAutoGUI trước khi chạy lệnh này.
